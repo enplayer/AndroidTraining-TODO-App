@@ -13,7 +13,7 @@ masterはプロジェクトを作ったばっかりの状態なので、そこ�
 [モックを見せる](https://github.com/mixi-inc/AndroidTraining-TODO-App/milestones/%E3%83%A2%E3%83%83%E3%82%AF%E3%82%92%E8%A6%8B%E3%81%9B%E3%82%8B)
 の作業を行う
 
-test
+test2
 
 License
 ------
